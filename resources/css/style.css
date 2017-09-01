@@ -24,3 +24,6 @@ p{
 .footer{
   text-align: right;
 }
+.img{
+  position: absolute;
+}
